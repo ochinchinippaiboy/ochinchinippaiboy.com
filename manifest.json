@@ -2,10 +2,10 @@
   "name"              : "We are Japanese HENTAI!",
   "short_name"        : "JP-HENTAI",
   "description"       : "Robobu-ExceedClass-WEBSITE",
-  "start_url"         : "",
+  "start_url"         : "https://ochinchinippaiboy.com/",
   "display"           : "standalone",
-  "background_color"  : "#ff0000",
-  "theme_color"       : "#ff0000",
+  "background_color"  : "#ffffff",
+  "theme_color"       : "#ffffff",
   "icons": [{
       "src"           : "icons/icon-192.png",
       "sizes"         : "192x192",
